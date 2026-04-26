@@ -2,7 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Rith%20Sophanith&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20with%20grace,%20build%20with%20purpose&descAlignY=58&color=0:ff9aa2,50:ffc3a0,100:fbc2eb" />
 </div>
 
-<h2 align="center">Hi, I am Rith</h2>
+<div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
+  <img style="width: 200px; height:200px" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+  <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
+  <img style="width: 200px; height:200px" src="https://i.redd.it/zcxr7kn97kv91.gif">
+  <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+</div>
 
 <p align="center">
   A girl in tech who enjoys turning ideas into useful products.
