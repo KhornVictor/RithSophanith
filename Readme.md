@@ -46,7 +46,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
   <img style="width: 200px; height:200px" src="https://giffiles.alphacoders.com/224/224286.gif">
   <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
   <img style="width: 200px; height:200px" src="https://i.redd.it/zcxr7kn97kv91.gif">
-  <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+  <img style="width: 200px; height:200px" src="https://classroomclipart.com/image/content2/18578/thumb.gif">
 </div>
 
 <img style="width: 200px; height:200px" align="right" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
