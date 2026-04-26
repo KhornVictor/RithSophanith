@@ -83,6 +83,10 @@
   <img height="160" src="https://streak-stats.demolab.com?user=KhornVictor&theme=default&hide_border=true&ring=f783ac&fire=fa5252&currStreakLabel=d63384" />
 </div>
 
+<p align="center">
+  <img width="800px" height="800px" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
+</p>
+
 ---
 
 <div align="center">
