@@ -6,7 +6,7 @@
   <img style="width: 200px; height:200px" src="https://i.pinimg.com/originals/75/8f/ce/758fce66508ff38809b308e1cf329679.gif">
   <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
   <img style="width: 200px; height:200px" src="https://i.redd.it/zcxr7kn97kv91.gif">
-  <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+  <img style="width: 200px; height:200px" src="https://miro.medium.com/v2/resize:fit:1400/1*3sjFswdlEMNRXq3I_92Pcw.gif">
 </div>
 
 <p align="center">
