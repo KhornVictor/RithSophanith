@@ -49,7 +49,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 </div>
 
-<img style="width: 200px; height:200px" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif"/>
+<img style="width: 200px; height:200px" align="right" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
