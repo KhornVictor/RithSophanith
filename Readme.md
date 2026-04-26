@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=RITH%20SOPHANITH&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=56b5e6&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-Sometimes it feels like I’m caught between who I am and who I dream of becoming… but I’m learning to be gentle with myself along the way 🌸Every day, I try my best even when I’m unsure, even when it’s hard. I remind myself to stay strong, to keep growing, and to believe that all these little struggles are helping me become a better version of me 💕
+I’m a girl who codes, and I absolutely love it. There’s something magical about turning ideas into real things with just logic and creativity. While others might see lines of code, I see possibilities, challenges, and growth. I’m not just learning to code. I’m building my future, one line at a time, with passion and curiosity leading the way.
 
 ###
 
