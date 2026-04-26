@@ -68,7 +68,12 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
   <img width="800px" height="800px" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
 </p>
 
-<img src="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph.svg">
+</picture>
+
 
 # 💻 Tech Stack:
 
