@@ -39,7 +39,7 @@ I’m a girl who codes, and I absolutely love it. There’s something magical ab
 ## 🔥 About Me
 
 <p align="center">
-  <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
+  <b>🌟 Just A Cute Software Developer</b>
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
