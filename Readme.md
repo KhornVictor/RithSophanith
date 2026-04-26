@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
   <img style="width: 200px; height:200px" src="https://i.pinimg.com/originals/75/8f/ce/758fce66508ff38809b308e1cf329679.gif">
-  <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
+  <img style="width: 200px; height:200px" src="https://media.tenor.com/_xghyfiO9JgAAAAM/very-good.gif">
   <img style="width: 200px; height:200px" src="https://i.redd.it/zcxr7kn97kv91.gif">
   <img style="width: 200px; height:200px" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMDJtNnNtaWlnNml4ZDZkNnJvejV0cmdmMWlpbmdtcGZjeGI5N3lycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOowlkUroZBoUb9sAl/giphy-downsized.gif">
 </div>
