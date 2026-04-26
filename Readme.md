@@ -2,11 +2,19 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=RITH%20SOPHANITH&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=56b5e6&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-My life is a constant fight between who I am and who I want to become. Every day, I push through uncertainty, discipline my mind, and challenge my limits to grow stronger and wiser. I embrace the struggle because I know it’s shaping me into something greater. I don’t fear failure I use it. I don’t avoid difficulty I seek it. Because deep down, I know that everything I’m going through is building a version of me that refuses to settle.
+Sometimes it feels like I’m caught between who I am and who I dream of becoming… but I’m learning to be gentle with myself along the way 🌸
+
+Every day, I try my best even when I’m unsure, even when it’s hard. I remind myself to stay strong, to keep growing, and to believe that all these little struggles are helping me become a better version of me 💕
+
+I’m not afraid of failing anymore… it just means I’m trying.
+I don’t run from challenges… I face them, even if I’m a little scared.
+
+Because deep down, I know I’m slowly becoming someone I can be proud of — someone who keeps going, no matter what ✨
+
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/c1/f4/a2/c1f4a20077341376430292719f1077e3.gif"  />
 
 ###
 
