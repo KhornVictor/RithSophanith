@@ -4,7 +4,6 @@
 
 Sometimes it feels like I’m caught between who I am and who I dream of becoming… but I’m learning to be gentle with myself along the way 🌸Every day, I try my best even when I’m unsure, even when it’s hard. I remind myself to stay strong, to keep growing, and to believe that all these little struggles are helping me become a better version of me 💕
 
-
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c1/f4/a2/c1f4a20077341376430292719f1077e3.gif"  />
@@ -31,7 +30,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
 
 <div align="left">
   
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sdfsaf) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sdf) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/1490759872252350615/1490759873204453618) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/khorn.chanvictor/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dsfdsf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adsf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sdfsf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/af) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sdfsf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Important_Aerie_203/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sdf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sadf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadf) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/asdf) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@sfsdff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdfa) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/sdfsaf) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sdf) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/1490759872252350615/1490759873204453618) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/khorn.chanvictor/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dsfdsf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adsf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sdfsf) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/af) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sdfsf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Important_Aerie_203/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sdf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sadf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadf) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/asdf) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@sfsdff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdfa)
 
 </div>
 
@@ -44,7 +43,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
-  <img style="width: 200px; height:200px" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+  <img style="width: 200px; height:200px" src="https://storage.ko-fi.com/cdn/useruploads/post/a5480113-7d1f-4c44-9b9e-3c365aa6ea7d_untitled_artwork.gif">
   <img style="width: 200px; height:200px" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
   <img style="width: 200px; height:200px" src="https://miro.medium.com/1*_wxwNuxszA6vwQIUMbF-fw.gif">
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
@@ -225,7 +224,6 @@ other:
   - Markdown
   - PowerShell
   - JWT
-
 ```
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -235,7 +233,6 @@ other:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KhornVictor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=%F0%9F%A6%96%20GIT%20CONTRIBUTION&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=b9131a&strokeWidth=2&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
