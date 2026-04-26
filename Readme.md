@@ -43,7 +43,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
-  <img style="width: 200px; height:200px" src="https://storage.ko-fi.com/cdn/useruploads/post/a5480113-7d1f-4c44-9b9e-3c365aa6ea7d_untitled_artwork.gif">
+  <img style="width: 200px; height:200px" src="https://giffiles.alphacoders.com/224/224286.gif">
   <img style="width: 200px; height:200px" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
   <img style="width: 200px; height:200px" src="https://miro.medium.com/1*_wxwNuxszA6vwQIUMbF-fw.gif">
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
