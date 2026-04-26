@@ -65,7 +65,7 @@ Sometimes it feels like I’m caught between who I am and who I dream of becomin
 ### 🛠 Skills
 
 <p align="center">
-  <img width="800px" height="800px" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
+  <img width="800px" height="800px" src="https://www.gif-vif.com/trending/aesthetic-anime-girl-ai-hoshino-dancing-1c3yita1bsrukc9l.gif">
 </p>
 
 <picture>
